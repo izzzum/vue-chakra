@@ -6,14 +6,14 @@ import store from "./store";
 
 Vue.config.productionTip = false;
 
-import BootstrapVue from 'bootstrap-vue'
-import VueMoment from 'vue-moment'
+import BootstrapVue from "bootstrap-vue";
+import VueMoment from "vue-moment";
 
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap-vue/dist/bootstrap-vue.css";
 
-Vue.use(BootstrapVue)
-Vue.use(VueMoment)
+Vue.use(BootstrapVue);
+Vue.use(VueMoment);
 
 new Vue({
   router,
