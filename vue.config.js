@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/chakro-analysis"
+  publicPath: "/" /*mofdivy to deploy in subfolder*/
 };
